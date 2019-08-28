@@ -27,7 +27,7 @@
                 android:layout_weight="1"
                 android:layout_height="wrap_content" />
             <TextView
-                android:text="Hola"
+                android:text="@string/main_titulo"
                 android:textSize="25sp"
                 android:layout_width="0dp"
                 android:gravity="left"

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">googlePlayMusic</string>
+    <string name="main_titulo">Lista principal</string>
+    <string name="registro_artista">Registro Artista</string>
+    <string name="entrar">Entrar</string>
+    <!--ListaActivity-->
+    <string name="listado_artistas">Listado de Artistas</string>
+    <!-- -->
 </resources>
